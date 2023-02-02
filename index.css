@@ -8,17 +8,21 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   padding: 10px;
 }
-.header{
+header{
   padding: 15px;
   text-align: center;
   background: #012363;
 
 }
-.header h1{
+header h1{
   font-size: 30px;
   color: #ffb701;
 }
-.header p{
+header p{
   color: #ffb701;
   text-shadow: 1px;
+}
+#logo{
+  float: left !important;
+  margin-top: -135px;
 }
